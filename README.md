@@ -10,7 +10,8 @@ week-five-ai-dev-workflow/
 ├── notebooks/           # Jupyter notebooks for EDA, preprocessing, modeling
 ├── apps/
 │   ├── fastapi/         # FastAPI backend and React frontend
-│   └── flask/           # Flask backend and React frontend
+│   ├── flask/           # Flask backend and React frontend
+│   └── streamlit/       # Streamlit app
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project overview
 ```
