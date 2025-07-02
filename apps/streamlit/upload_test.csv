@@ -1,0 +1,6 @@
+name,age,gender,blood_type,medical_condition,date_of_admission,doctor,hospital,insurance_provider,billing_amount,room_number,admission_type,discharge_date,medication,test_results
+adrIENNE bEll,65,Female,O+,Hypertension,2024-01-10,Dr. Johnson,General Hospital,Medicare,5200,101A,Emergency,2024-01-17,Lisinopril,Normal
+James Smith,72,Male,A+,Diabetes,2024-02-01,Dr. Patel,City Clinic,Private,4300,305B,Elective,2024-02-06,Metformin,Normal
+Rose Mwende,58,Female,B+,Heart Failure,2024-03-05,Dr. Kamau,Nairobi Heart Ctr,NHIF,8900,210C,Emergency,2024-03-15,Furosemide,Abnormal
+Peter Ochieng,44,Male,AB-,Asthma,2024-04-20,Dr. Njeri,Umoja Hospital,NHIF,3100,107D,Urgent,2024-04-24,Salbutamol,Normal
+Sharon Naliaka,81,Female,O-,Chronic Kidney Disease,2024-05-01,Dr. Otieno,Eldoret Hospital,Private,10200,401E,Emergency,2024-05-10,Erythropoietin,Abnormal
