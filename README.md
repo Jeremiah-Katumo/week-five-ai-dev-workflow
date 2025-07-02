@@ -16,6 +16,11 @@ week-five-ai-dev-workflow/
 └── README.md            # Project overview
 ```
 
+## Data Link
+
+- Students Dropout and Academic Success - [Link Text](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
+- HealthCare Dataset - [Link Text](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+
 ## Overview
 
 The goal of this project is to build and deploy machine learning models that help hospitals identify patients at high risk of readmission, enabling early intervention and better resource allocation.
